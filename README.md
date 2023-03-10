@@ -1,11 +1,11 @@
 <h1 align="center">Bonjour 👋, je suis Laurent de Esvres sur indre</h1>
-<h3 align="center">développeur web et web mobile, en recherche d'alternance php / Symfony, sur Tours et environs. Je souhaite approfondir les technologies que j'utilise au quotidien afin de monter en compétences.</h3>
+<h3 align="center">développeur web et web mobile, en recherche d'alternance php / Symfony, sur Tours et environs. Je souhaite approfondir les technologies que j'utilise au quotidien afin de monter en compétences et devenir un professionnel..</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laurentgautron&label=Profile%20views&color=0e75b6&style=flat" alt="laurentgautron" /> </p>
 
-- 🔭 I’m currently working on [admcard.fr](admcard.fr)
-
 - 📫 Me contacter **laurentgautron@protonmail.com**
+
+- 📄 Know about my experiences [admcard.fr](admcard.fr)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
