@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Laurent from `red:`Esvres sur indre</h1>
+<h1 align="center">Hi 👋, I'm Laurent from <span style="color:red">Esvres sur indre</span></h1>
 <h3 align="center">développeur web et web mobile, en recherche d'alternance php / Symfony, sur Tours et environs. Je souhaite approfondir les technologies que j'utilise au quotidien afin de monter en compétences.</h3>
 
 <h3 align="left">Connect with me:</h3>
