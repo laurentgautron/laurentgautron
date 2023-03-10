@@ -5,6 +5,5 @@ avec Openclassrooms.Mon but est d'approfondir des technologies que j'utilise act
 
 ### langages et outils:
 
-[<img align="left" alt="react" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">]
-
+ <i class="devicon-react-original colored"></i>
 
