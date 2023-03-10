@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laurentgautron&label=Profile%20views&color=0e75b6&style=flat" alt="laurentgautron" /> </p>
 
+- 🔭 I’m currently working on [admcard.fr](admcard.fr)
+
 - 📫 Me contacter **laurentgautron@protonmail.com**
 
-<h3 align="left">Mon linkedin:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/laurent-gautron" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="laurent-gautron" height="30" width="40" /></a>
 </p>
