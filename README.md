@@ -14,7 +14,7 @@
 <h3>Mon plus gros projet (examen de fin d'étude développeur web au CEFIM):</h3>
 ## 🚀 Mon projet phare
 
-👉 Découvrez mon projet : [Nom du projet](https://github.com/tonpseudo/nom-du-projet)
+👉 Découvrez mon projet : [Animaux](https://github.com/laurentgautron/animaux)
 
 Une petite description du projet :
 - projet exercice: une galerie d'images d'animaux avec descritpion (créations , modifications, ajouts si autorisé)
