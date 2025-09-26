@@ -1,9 +1,8 @@
 <h1 align="center">Bonjour 👋, je suis Laurent de Esvres sur indre</h1>
-<h3 align="center">Je suis développeur web et web mobile. En recherche d'alternance en php / symfony, sur Tours et environs. Je souhaite me perfectionner dans les technologies que j'ai apprises dans mes projets pour monter en compétences et devenir un professionnel. Mon alternance se fera avec OpenClassrooms au rythme de 4 jours en entreprise et 1 jour en formation</h3>
+<h3 align="center">Je suis développeur web et web mobile. En recherche d'alternance développeur et concepteur d'applications, sur Tours et environs. Je souhaite me perfectionner dans les technologies que j'ai apprises dans mes projets pour monter en compétences et devenir un professionnel. Mon alternance se fera avec Oclock au rythme de 2 semaine en entreprise et 1 semaine en formation sur 12 mois</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laurentgautron&label=Profile%20views&color=0e75b6&style=flat" alt="laurentgautron" /> </p>
 
-- 👨‍💻 mon projet / erxercice : [https://admcard.fr](https://admcard.fr)
 
 - 📫 Me contacter **laurentgautron@protonmail.com**
 
